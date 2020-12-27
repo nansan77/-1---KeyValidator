@@ -9,7 +9,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
- https://github.com/nansan77/-1---KeyValidator/issues/1
+Смотреть Issues
 
 
 В процессе тестирования использовались следующие артефакт -Приложение KeyValidator распространяется в виде файла KeyValidator.class, Git Bash Here, Java11
